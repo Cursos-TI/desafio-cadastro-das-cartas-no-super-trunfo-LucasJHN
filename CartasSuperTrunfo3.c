@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 // Desafio Super Trunfo - Países
@@ -6,14 +7,6 @@
 int main() {
      
     //variáveis inicializadas com zero caso usuario não digite valor
-
-    char estado1 [2] = "A";
-    char codigoDaCarta1 [4] = "A01" ;
-    char nomeCidade1 [21] = "Sao Paulo";
-    char estado2 [2] = "A";
-    char codigoDaCarta2 [4] = "A01" ;
-    char nomeCidade2 [21] = "Rio de Janeiro";
-
     char cidade1 [4] = "A01";
     char cidade2 [4] = "A02";
     int populacao1 = 0;
