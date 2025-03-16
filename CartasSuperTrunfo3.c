@@ -110,5 +110,6 @@ int main() {
     printf("PIB per capita: A carta %d venceu (%d)!\n", 2-(pibPerCapita1>pibPerCapita2), pibPerCapita1 > pibPerCapita2 );
     printf("SUPER PODER: A carta %d venceu (%d)!\n", 2-(superPoder1>superPoder2), superPoder1 > superPoder2 );
 
+
     return 0;
 }
